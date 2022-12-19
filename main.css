@@ -1,0 +1,21 @@
+body {
+    font-family: 'PT Sans';
+    font-size: 16px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    box-sizing: border-box;
+    background-color: #122a34;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    color: #32e5e9;
+    text-align: left;
+}
+
+.card {
+    display: grid;
+    grid-template-areas: "a b";
+    grid-template-columns: 70px 400px;
+}
