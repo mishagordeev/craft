@@ -1,0 +1,342 @@
+[
+    {
+      "file_name": "SP_item_res_t1_Water-ammonia_Ice",
+      "item_name": "Water-ammonia Ice"
+    },
+    {
+      "file_name": "SP_item_res_t2_methanic_ice",
+      "item_name": "Methanic Ice"
+    },
+    {
+      "file_name": "SP_item_res_t3_phosgenic_ice",
+      "item_name": "Phosgenic Ice"
+    },
+    {
+      "file_name": "SP_item_res_t1_ferro_nickel_ore",
+      "item_name": "Ferro-Nickel Ore"
+    },
+    {
+      "file_name": "SP_item_res_t2_cupric_ore",
+      "item_name": "Cupric-W Ore"
+    },
+    {
+      "file_name": "SP_item_res_t3_titano_palladic",
+      "item_name": "Titano-Iridic Ore"
+    },
+    {
+      "file_name": "SP_item_res_t1_meteorite_stone",
+      "item_name": "Meteorite Minerals"
+    },
+    {
+      "file_name": "SP_item_res_t2_quartz",
+      "item_name": "Quartz Minerals"
+    },
+    {
+      "file_name": "SP_item_res_t3_moon_minerals",
+      "item_name": "Moon Minerals"
+    },
+    {
+      "file_name": "SP_Item_res_t1_Electronic_Component",
+      "item_name": "Electronic Components"
+    },
+    {
+      "file_name": "SP_Item_res_t2_Nanochip",
+      "item_name": "Photonic nanochips"
+    },
+    {
+      "file_name": "SP_Item_Res_T3_Neural_Substrate",
+      "item_name": "Neural substrate"
+    },
+    {
+      "file_name": "SP_item_res_t4_intact_graphene_intcore",
+      "item_name": "Intact Graphene IntlCore"
+    },
+    {
+      "file_name": "SP_item_res_t2_carbon_microfabric",
+      "item_name": "Carbon Microfabric"
+    },
+    {
+      "file_name": "SP_item_res_t3_carbonado_fabrics",
+      "item_name": "Carbonado Fabrics"
+    },
+    {
+      "file_name": "SP_item_res_t1_astra_a18_chip",
+      "item_name": "Astra A18 Chip"
+    },
+    {
+      "file_name": "SP_Item_Res_T2_Hyper_Diamond",
+      "item_name": "Hyper Diamond"
+    },
+    {
+      "file_name": "SP_Item_Res_T3_Quantum_Chip",
+      "item_name": "Quantum Chip"
+    },
+    {
+      "file_name": "SP_item_res_t4_astra_compact_reactor",
+      "item_name": "Astra Compact TN Reactor"
+    },
+    {
+      "file_name": "SP_item_res_t5_programmable_matter",
+      "item_name": "Programmable Matter"
+    },
+    {
+      "file_name": "SP_item_start_scrap_metal",
+      "item_name": "Scrapmetal"
+    },
+    {
+      "file_name": "SP_item_start_burned_engine",
+      "item_name": "Burned Engine"
+    },
+    {
+      "file_name": "SP_item_mat_oxygen",
+      "item_name": "Oxygen"
+    },
+    {
+      "file_name": "SP_item_mat_polluted_water",
+      "item_name": "Polluted Water"
+    },
+    {
+      "file_name": "SP_item_mat_potable_water",
+      "item_name": "Potable Water"
+    },
+    {
+      "file_name": "SP_item_mat_molecular_water",
+      "item_name": "Molecular Water"
+    },
+    {
+      "file_name": "SP_item_mat_lithium",
+      "item_name": "Lithium Compound"
+    },
+    {
+      "file_name": "SP_item_mat_organic_carbon_gases",
+      "item_name": "Organic Gases"
+    },
+    {
+      "file_name": "SP_item_mat_nitric_acid",
+      "item_name": "Nitric Acid"
+    },
+    {
+      "file_name": "SP_item_mat_phosphoric_acids",
+      "item_name": "Phosphoric Acids"
+    },
+    {
+      "file_name": "SP_item_mat_plant_biomatter",
+      "item_name": "Plant Biomatter"
+    },
+    {
+      "file_name": "SP_item_mat_organic_phosgenic_gases",
+      "item_name": "Phosgenic Gases"
+    },
+    {
+      "file_name": "SP_item_mat_carboxylic_acids",
+      "item_name": "Carboxylic Acids"
+    },
+    {
+      "file_name": "SP_item_mat_plant_ec401_mycelium",
+      "item_name": "Mycelium EC401"
+    },
+    {
+      "file_name": "SP_item_mat_ferronic_compound",
+      "item_name": "Ferric Compound"
+    },
+    {
+      "file_name": "SP_Item_mat_nickel_compound",
+      "item_name": "Nickelic Compound"
+    },
+    {
+      "file_name": "SP_item_mat_copper_compound",
+      "item_name": "Copper Compound"
+    },
+    {
+      "file_name": "SP_item_mat_titanium_compound",
+      "item_name": "Titanium Compound"
+    },
+    {
+      "file_name": "SP_item_mat_rare_earth_compounds",
+      "item_name": "Rare Earth Compound"
+    },
+    {
+      "file_name": "SP_item_mat_organic_compouds",
+      "item_name": "Organic Compound"
+    },
+    {
+      "file_name": "SP_item_mat_iridium_compound",
+      "item_name": "Iridium Compound"
+    },
+    {
+      "file_name": "SP_item_mat_tungsten_compound",
+      "item_name": "Tungsten Compound"
+    },
+    {
+      "file_name": "SP_item_mat_tristeel",
+      "item_name": "Tristeel"
+    },
+    {
+      "file_name": "SP_item_mat_ceramic_blocks",
+      "item_name": "Ceramo-Crystallic Blocks"
+    },
+    {
+      "file_name": "SP_item_mat_carbonate_powders",
+      "item_name": "Carbonates Powders"
+    },
+    {
+      "file_name": "SP_item_mat_silicate_powders",
+      "item_name": "Silicates Powders"
+    },
+    {
+      "file_name": "SP_item_mat_sulfates_powder",
+      "item_name": "Sulfates Powders"
+    },
+    {
+      "file_name": "SP_item_mat_pentamorphic_crystal",
+      "item_name": "Pentamorphic Crystals"
+    },
+    {
+      "file_name": "SP_item_mat_cyclophenites_powder",
+      "item_name": "Cyclophenites Powder"
+    },
+    {
+      "file_name": "SP_item_mat_rough_quartz_crystals",
+      "item_name": "Rough Quartz Crystals"
+    },
+    {
+      "file_name": "SP_item_mat_fine_quartz_crystals",
+      "item_name": "Fine Quartz Crystals"
+    },
+    {
+      "file_name": "SP_item_mat_programmable_metacrystals",
+      "item_name": "Programmable Metacrystals"
+    },
+    {
+      "file_name": "SP_item_mat_lightweight_polyalloy",
+      "item_name": "Lightweight Polyalloy"
+    },
+    {
+      "file_name": "SP_item_mat_metagraphene",
+      "item_name": "MetaGraphene"
+    },
+    {
+      "file_name": "SP_item_comp_thin_film_lithium_battery",
+      "item_name": "Thin-film Lithium Battery"
+    },
+    {
+      "file_name": "SP_item_comp_carbon_tube_battery",
+      "item_name": "Carbon Tube Battery"
+    },
+    {
+      "file_name": "SP_item_comp_fullerene_battery",
+      "item_name": "Fullerene Battery"
+    },
+    {
+      "file_name": "SP_item_comp_rudimentary_rails",
+      "item_name": "Rudimentary Rails"
+    },
+    {
+      "file_name": "SP_item_comp_tristeel_rails",
+      "item_name": "Tristeel Rails"
+    },
+    {
+      "file_name": "SP_item_comp_titanium_iridium_rails",
+      "item_name": "Titanium-Iridium Rails"
+    },
+    {
+      "file_name": "SP_item_comp_ferrorganic_em_coils",
+      "item_name": "Ferroorganic E/M Coils"
+    },
+    {
+      "file_name": "SP_item_comp_copper_em_coils",
+      "item_name": "Copper E/M Coils"
+    },
+    {
+      "file_name": "SP_item_comp_samarium_em_coils",
+      "item_name": "Samarium E/M Coils"
+    },
+    {
+      "file_name": "SP_item_comp_optical_lens",
+      "item_name": "Optical Red LENS"
+    },
+    {
+      "file_name": "SP_item_comp_ir_x_lens",
+      "item_name": "IR-X Green LENS"
+    },
+    {
+      "file_name": "SP_item_comp_phqd_lens",
+      "item_name": "Phosphoric Blue QD LENS"
+    },
+    {
+      "file_name": "SP_Item_Comp_Riffle_Structure",
+      "item_name": "Reinforced Str.Elements"
+    },
+    {
+      "file_name": "SP_item_comp_gun_structure",
+      "item_name": "Structural Elements"
+    },
+    {
+      "file_name": "SP_Item_Comp_Tristeel_Riffle_Structure",
+      "item_name": "Reinforced Tristeel Str.Elements"
+    },
+    {
+      "file_name": "SP_item_comp_tristeel_gun_structure",
+      "item_name": "Tristeel Structural Elements"
+    },
+    {
+      "file_name": "SP_item_comp_polyalloy_structure",
+      "item_name": "Polyalloy Structural Elements"
+    },
+    {
+      "file_name": "SP_item_comp_carbon_tube_lattices",
+      "item_name": "Carbon Tube Lattices"
+    },
+    {
+      "file_name": "SP_item_comp_nickel_ceramic_microtiles",
+      "item_name": "Nickel-Ceramic Microtiles"
+    },
+    {
+      "file_name": "SP_item_comp_pentapolyalloy",
+      "item_name": "PentaPolyalloy Tiles"
+    },
+    {
+      "file_name": "SP_item_comp_basic_targeting_computer",
+      "item_name": "Basic Targeting Computer"
+    },
+    {
+      "file_name": "SP_item_comp_adv_targeting_computer",
+      "item_name": "Adv. Targeting Computer"
+    },
+    {
+      "file_name": "SP_item_comp_graphene_computer",
+      "item_name": "Graphene Reaction Core"
+    },
+    {
+      "file_name": "SP_item_comp_rocket_shell",
+      "item_name": "Rocket Shell"
+    },
+    {
+      "file_name": "SP_item_quest_gravity_resonator",
+      "item_name": "Gravity Resonator"
+    },
+    {
+      "file_name": "SP_item_consumable_HealingKit0",
+      "item_name": "First Aid Pack"
+    },
+    {
+      "file_name": "SP_item_consumable_HealingKit1",
+      "item_name": "MedKit"
+    },
+    {
+      "file_name": "SP_item_consumable_HealingKit2",
+      "item_name": "Emergency Medichines"
+    },
+    {
+      "file_name": "SP_item_consumable_HealingKit3",
+      "item_name": "Military Medichines"
+    },
+    {
+      "file_name": "SP_item_consumable_antirad1",
+      "item_name": "Stabilon-300"
+    },
+    {
+      "file_name": "SP_item_consumable_antirad2",
+      "item_name": "Telocure-Forte"
+    }
+  ]
