@@ -1,6 +1,6 @@
 [
     {
-      "file_name": "sp_item_res_t1_water-ammonia_Ice",
+      "file_name": "sp_item_res_t1_water-ammonia_ice",
       "item_name": "Water-ammonia Ice"
     },
     {
@@ -20,7 +20,7 @@
       "item_name": "Cupric-W Ore"
     },
     {
-      "file_name": "SP_item_res_t3_titano_palladic",
+      "file_name": "sp_item_res_t3_titano_palladic",
       "item_name": "Titano-Iridic Ore"
     },
     {
@@ -36,15 +36,15 @@
       "item_name": "Moon Minerals"
     },
     {
-      "file_name": "SP_Item_res_t1_Electronic_Component",
+      "file_name": "sp_item_res_t1_electronic_component",
       "item_name": "Electronic Components"
     },
     {
-      "file_name": "SP_Item_res_t2_Nanochip",
+      "file_name": "sp_item_res_t2_nanochip",
       "item_name": "Photonic nanochips"
     },
     {
-      "file_name": "SP_Item_Res_T3_Neural_Substrate",
+      "file_name": "sp_item_res_t3_neural_substrate",
       "item_name": "Neural substrate"
     },
     {
@@ -64,11 +64,11 @@
       "item_name": "Astra A18 Chip"
     },
     {
-      "file_name": "SP_Item_Res_T2_Hyper_Diamond",
+      "file_name": "sp_item_res_t2_hyper_diamond",
       "item_name": "Hyper Diamond"
     },
     {
-      "file_name": "SP_Item_Res_T3_Quantum_Chip",
+      "file_name": "sp_item_res_t3_quantum_chip",
       "item_name": "Quantum Chip"
     },
     {
@@ -140,7 +140,7 @@
       "item_name": "Ferric Compound"
     },
     {
-      "file_name": "SP_Item_mat_nickel_compound",
+      "file_name": "sp_item_mat_nickel_compound",
       "item_name": "Nickelic Compound"
     },
     {
@@ -264,7 +264,7 @@
       "item_name": "Phosphoric Blue QD LENS"
     },
     {
-      "file_name": "SP_Item_Comp_Riffle_Structure",
+      "file_name": "sp_item_comp_riffle_structure",
       "item_name": "Reinforced Str.Elements"
     },
     {
@@ -272,7 +272,7 @@
       "item_name": "Structural Elements"
     },
     {
-      "file_name": "SP_Item_Comp_Tristeel_Riffle_Structure",
+      "file_name": "sp_item_comp_tristeel_riffle_structure",
       "item_name": "Reinforced Tristeel Str.Elements"
     },
     {
@@ -308,12 +308,28 @@
       "item_name": "Graphene Reaction Core"
     },
     {
+      "file_name": "sp_item_comp_qm_computer",
+      "item_name": "Quickmatter Computer"
+    },
+    {
       "file_name": "sp_item_comp_rocket_shell",
       "item_name": "Rocket Shell"
     },
     {
       "file_name": "sp_item_quest_gravity_resonator",
       "item_name": "Gravity Resonator"
+    },
+    {
+      "file_name": "sp_item_bananahonk",
+      "item_name": "Banana Honk"
+    },
+    {
+      "file_name": "sp_item_pan-galactic_gargle_blaster",
+      "item_name": "Pan-Galactic Gargle Blaster"
+    },
+    {
+      "file_name": "sp_item_pacific_surprise",
+      "item_name": "Pacific Surprise"
     },
     {
       "file_name": "sp_item_consumable_HealingKit0",
@@ -332,11 +348,315 @@
       "item_name": "Military Medichines"
     },
     {
+      "file_name": "sp_item_food_water",
+      "item_name": "Potable Water (bottle)"
+    },
+    {
       "file_name": "sp_item_consumable_antirad1",
       "item_name": "Stabilon-300"
     },
     {
       "file_name": "sp_item_consumable_antirad2",
       "item_name": "Telocure-Forte"
+    },
+    {
+      "file_name": "sp_item_consumable_antirad3",
+      "item_name": "Astra Restoration Ultra"
+    },
+    {
+      "file_name": "sp_item_survival_suit_mk2",
+      "item_name": "Survival Suit MK2"
+    },
+    {
+      "file_name": "sp_item_survival_suit_mk3",
+      "item_name": "Survival Suit MK3"
+    },
+    {
+      "file_name": "sp_item_survival_suit_mk4",
+      "item_name": "Survival Suit MK4"
+    },
+    {
+      "file_name": "sp_item_survival_suit_mk5",
+      "item_name": "Survival Suit MK5"
+    },
+    {
+      "file_name": "sp_item_armor_jetpack_t1",
+      "item_name": "Oxygen Jetpack"
+    },
+    {
+      "file_name": "sp_item_weapon_railgun_riffle_double_hand_t0",
+      "item_name": "Primitive Shrapnel Gun"
+    },
+    {
+      "file_name": "sp_item_weapon_mellee_single_handed_t0",
+      "item_name": "Iron-Nickelic Knife"
+    },
+    {
+      "file_name": "sp_item_weapon_mellee_single_handed_t1-1",
+      "item_name": "Quartz-Organic Knife"
+    },
+    {
+      "file_name": "sp_item_weapon_mellee_single_handed_t2-1",
+      "item_name": "Crystallic Knife"
+    },
+    {
+      "file_name": "sp_item_weapon_knife_T3-1",
+      "item_name": "Metacrystal Knife"
+    },
+    {
+      "file_name": "sp_w4p-ml41-melee-1h-t4-1",
+      "item_name": "Diamondoid Knife"
+    },
+    {
+      "file_name": "sp_item_weapon_blunt",
+      "item_name": "Wrench"
+    },
+    {
+      "file_name": "sp_item_weapon_mellee_double_handed_t1-2",
+      "item_name": "Quartz-Organic Crusher"
+    },
+    {
+      "file_name": "sp_item_weapon_mellee_double_handed_t2-2",
+      "item_name": "Tristeel Reinforced Crusher"
+    },
+    {
+      "file_name": "sp_item_weapon_mellee_double_handed_t2-2",
+      "item_name": "OctaCoesite Crusher"
+    },
+    {
+      "file_name": "sp_item_weapon_laser_gun_t1-1",
+      "item_name": "Simple Optical Lasergun"
+    },
+    {
+      "file_name": "sp_item_weapon_laser_gun_t1-2",
+      "item_name": "Improved Optical Lasergun"
+    },
+    {
+      "file_name": "sp_item_weapon_laser_gun_t2-1",
+      "item_name": "IR-X Lasergun"
+    },
+    {
+      "file_name": "sp_item_weapon_Laser_Rifle_T2-1",
+      "item_name": "IR-X Laser Rifle"
+    },
+    {
+      "file_name": "sp_w4p_wpn-lzrgun22-laser-gun-t2-2",
+      "item_name": "Improved IR-X Lasergun"
+    },
+    {
+      "file_name": "sp_w4p-lzrgun41-laser-gun-t4-1",
+      "item_name": "Ph-QDot Lasergun"
+    },
+    {
+      "file_name": "sp_item_weapon_laser_rifle_t4-2",
+      "item_name": "Ph-QDot Laser Rifle"
+    },
+    {
+      "file_name": "sp_item_weapon_laser_gun_t2-2",
+      "item_name": "Erbium Lasergun"
+    },
+    {
+      "file_name": "sp_w4p-lzrgun32-laser-gun-t3-2",
+      "item_name": "Erbium Laser Rifle"
+    },
+    {
+      "file_name": "sp_w4p-coilgun-t1-1",
+      "item_name": "Ferrorganic Coilgun"
+    },
+    {
+      "file_name": "sp_w4p-coilgun-t2-1",
+      "item_name": "Copper Coilgun"
+    },
+    {
+      "file_name": "sp_w4p-coilgun-t3-1",
+      "item_name": "Samarium Coilgun"
+    },
+    {
+      "file_name": "sp_w4p-coilgun-t4-1",
+      "item_name": "Ultra-SmCO Coilgun"
+    },
+    {
+      "file_name": "sp_item_weapon_railgun_riffle_double_hand_t1-1",
+      "item_name": "Simple 8mm Railgun Rifle"
+    },
+    {
+      "file_name": "sp_item_weapon_railgun_riffle_double_hand_t1-2",
+      "item_name": "Improved 8mm Railgun Rifle"
+    },
+    {
+      "file_name": "sp_item_weapon_railgun_riffle_double_hand_t2-1",
+      "item_name": "14mm Railgun Rifle"
+    },
+    {
+      "file_name": "sp_item_weapon_railgun_riffle_double_hand_t2-2",
+      "item_name": "Improved 14mm Railgun Rifle"
+    },
+    {
+      "file_name": "sp_w4p-r31-railgunrifle-5",
+      "item_name": "Supersonic 15mm Railgun Rifle"
+    },
+    {
+      "file_name": "sp_w4p-r32-rocketlauncher-1",
+      "item_name": "Hypergolic Rocket Launcher"
+    },
+    {
+      "file_name": "sp_item_weapon_railgun_riffle_heavy_t2-2",
+      "item_name": "Hypersonic 16mm Railgun Rifle"
+    },
+    {
+      "file_name": "sp_item_weapon_railgun_riffle_heavy_t2-2",
+      "item_name": "Experimental Heavy 16mm Railgun Rifle"
+    },
+    {
+      "file_name": "sp_item_weapon_grenade_launcher",
+      "item_name": "Chemical Grenade Launcher"
+    },
+    {
+      "file_name": "sp_item_tool",
+      "item_name": "Laser Ore Cutter"
+    },
+    {
+      "file_name": "sp_item_tool_t0",
+      "item_name": "Primitive Ore Drill"
+    },
+    {
+      "file_name": "sp_item_armor_mask_t1-1",
+      "item_name": "Ni-Ceramic Combat Helmet"
+    },
+    {
+      "file_name": "sp_item_armor_body",
+      "item_name": "Ni-Ceramic Combat Chestpiece"
+    },
+    {
+      "file_name": "sp_item_armor_leg_t1-1",
+      "item_name": "Ni-Ceramic Leg Armor"
+    },
+    {
+      "file_name": "sp_item_armor_hands_t1-1",
+      "item_name": "Ni-Ceramic Armor Gauntlents"
+    },
+    {
+      "file_name": "sp_item_armor_mask_t1-2",
+      "item_name": "Impr. Ni-Ceramic Combat Helmet"
+    },
+    {
+      "file_name": "sp_item_armor_body_t1-2",
+      "item_name": "Impr. Ni-Ceramic Combat Chestpiece"
+    },
+    {
+      "file_name": "sp_item_armor_leg_t1-2",
+      "item_name": "Impr. Ni-Ceramic Leg Armor"
+    },
+    {
+      "file_name": "sp_item_armor_hands_t1-2",
+      "item_name": "Impr. Ni-Ceramic Hands Armor"
+    },
+    {
+      "file_name": "sp_item_armor_mask_t2-1",
+      "item_name": "Carbon Combat Helmet"
+    },
+    {
+      "file_name": "sp_item_armor_body_t2-1.",
+      "item_name": "Carbon Combat Chestpiece"
+    },
+    {
+      "file_name": "sp_item_armor_leg_t2-1",
+      "item_name": "Carbon Leg Armor"
+    },
+    {
+      "file_name": "sp_item_armor_hands_t2-1",
+      "item_name": "Carbon Hands Armor"
+    },
+    {
+      "file_name": "sp_item_armor_mask_t2-2",
+      "item_name": "HyperCarbon Combat Helmet"
+    },
+    {
+      "file_name": "sp_item_armor_body_t2-2",
+      "item_name": "HyperCarbon Combat Chestpiece"
+    },
+    {
+      "file_name": "sp_item_armor_leg_t2-2",
+      "item_name": "HyperCarbon Leg Armor"
+    },
+    {
+      "file_name": "sp_item_armor_hands_t2-2",
+      "item_name": "HyperCarbon Hands Armor"
+    },
+    {
+      "file_name": "sp_item_armor_mask_t2-3",
+      "item_name": "C.Hyperweave Combat Helmet"
+    },
+    {
+      "file_name": "sp_item_armor_body_t2-3",
+      "item_name": "C.Hyperweave Combat Chestpiece"
+    },
+    {
+      "file_name": "sp_item_armor_leg_t2-3",
+      "item_name": "C.Hyperweave Leg Armor"
+    },
+    {
+      "file_name": "sp_item_armor_hands_t2-3",
+      "item_name": "C.Hyperweave Hands Armor"
+    },
+    {
+      "file_name": "sp_item_armor_mask_t2-2",
+      "item_name": "Polyalloy Combat Helmet"
+    },
+    {
+      "file_name": "sp_item_armor_body_t2-2",
+      "item_name": "Polyalloy Combat Chestpiece"
+    },
+    {
+      "file_name": "sp_item_armor_leg_t2-2",
+      "item_name": "Polyalloy Leg Armor"
+    },
+    {
+      "file_name": "sp_item_armor_hands_t2-2",
+      "item_name": "Polyalloy Hands Armor"
+    },
+    {
+      "file_name": "sp_item_armor_t3-2_1helmet",
+      "item_name": "CyPh-Polyalloy Combat Helmet"
+    },
+    {
+      "file_name": "sp_item_armor_t3-2_2chest",
+      "item_name": "CyPh-Polyalloy Combat Chestpiece"
+    },
+    {
+      "file_name": "sp_item_armor_t3-2_3legs",
+      "item_name": "CyPh-Polyalloy Leg Armor"
+    },
+    {
+      "file_name": "sp_item_armor_t3-2_4hands",
+      "item_name": "CyPh-Polyalloy Hands Armor"
+    },
+    {
+      "file_name": "sp_item_consumable_credits",
+      "item_name": "Credits"
+    },
+    {
+      "file_name": "sp_item_consumable_xp-experience",
+      "item_name": "Experience"
+    },
+    {
+      "file_name": "sp_item_consumable_blueprint_production",
+      "item_name": "Production Blueprint"
+    },
+    {
+      "file_name": "sp_item_consumable_blueprint_construction",
+      "item_name": "Construcion Blueprint"
+    },
+    {
+      "file_name": "sp_item_consumable_blueprint_improved",
+      "item_name": "Construcion Blueprint"
+    },
+    {
+      "file_name": "sp_item_consumable_fuelfree",
+      "item_name": "Fuel (Hydrogen)"
+    },
+    {
+      "file_name": "sp_item_consumable_fuelpremium",
+      "item_name": "Exotic Matter Fuel (Premium)"
     }
   ]

@@ -19,3 +19,8 @@ p {
     grid-template-areas: "a b";
     grid-template-columns: 70px 400px;
 }
+
+img {
+    border-radius: 5px;
+    background-color: #0d0b0b;
+}
