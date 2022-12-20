@@ -24,3 +24,25 @@ img {
     border-radius: 5px;
     background-color: #0d0b0b;
 }
+
+.element {
+    position: relative;
+    width: 48px;
+    height: 48px;
+}
+
+.count {
+    position: absolute;
+    bottom: -12px;
+    right: 2px;
+    font-size: 12px;
+    color: azure;
+    background-color: #0d0b0b;
+}
+
+.recipe {
+    display: grid;
+    grid-template-areas: "a b c d";
+    grid-template-columns: 52px 52px 52px 52px;
+}
+

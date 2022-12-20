@@ -1,662 +1,1931 @@
-[
-    {
+{
+  "items": {
+    "ICE-1-Water-ammonia Ice": {
+      "id": "ICE-1-Water-ammonia Ice",
       "file_name": "sp_item_res_t1_water-ammonia_ice",
-      "item_name": "Water-ammonia Ice"
+      "item_name": "Water-ammonia Ice",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "ICE-2-Methanic Ice": {
+      "id": "ICE-2-Methanic Ice",
       "file_name": "sp_item_res_t2_methanic_ice",
-      "item_name": "Methanic Ice"
+      "item_name": "Methanic Ice",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "ICE-3-Phosgenic Ice": {
+      "id": "ICE-3-Phosgenic Ice",
       "file_name": "sp_item_res_t3_phosgenic_ice",
-      "item_name": "Phosgenic Ice"
+      "item_name": "Phosgenic Ice",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "ORE-1-Ferro-Nickel Ore": {
+      "id": "ORE-1-Ferro-Nickel Ore",
       "file_name": "sp_item_res_t1_ferro_nickel_ore",
-      "item_name": "Ferro-Nickel Ore"
+      "item_name": "Ferro-Nickel Ore",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "ORE-2-Cupric-W Ore": {
+      "id": "ORE-2-Cupric-W Ore",
       "file_name": "sp_item_res_t2_cupric_ore",
-      "item_name": "Cupric-W Ore"
+      "item_name": "Cupric-W Ore",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "ORE-3-Titano-Iridic Ore": {
+      "id": "ORE-3-Titano-Iridic Ore",
       "file_name": "sp_item_res_t3_titano_palladic",
-      "item_name": "Titano-Iridic Ore"
+      "item_name": "Titano-Iridic Ore",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "STONE-1-Meteorite Minerals": {
+      "id": "STONE-1-Meteorite Minerals",
       "file_name": "sp_item_res_t1_meteorite_stone",
-      "item_name": "Meteorite Minerals"
+      "item_name": "Meteorite Minerals",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "STONE-2-Quartz Minerals": {
+      "id": "STONE-2-Quartz Minerals",
       "file_name": "sp_item_res_t2_quartz",
-      "item_name": "Quartz Minerals"
+      "item_name": "Quartz Minerals",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "STONE-3-Moon Minerals": {
+      "id": "STONE-3-Moon Minerals",
       "file_name": "sp_item_res_t3_moon_minerals",
-      "item_name": "Moon Minerals"
+      "item_name": "Moon Minerals",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "INTBLC-1-Electronic Components": {
+      "id": "INTBLC-1-Electronic Components",
       "file_name": "sp_item_res_t1_electronic_component",
-      "item_name": "Electronic Components"
+      "item_name": "Electronic Components",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "INTBLC-2-Photonic nanochips": {
+      "id": "INTBLC-2-Photonic nanochips",
       "file_name": "sp_item_res_t2_nanochip",
-      "item_name": "Photonic nanochips"
+      "item_name": "Photonic nanochips",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "INTBLC-3-Neural substrate": {
+      "id": "INTBLC-3-Neural substrate",
       "file_name": "sp_item_res_t3_neural_substrate",
-      "item_name": "Neural substrate"
+      "item_name": "Neural substrate",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "INTBLC-4-Intact Graphene IntlCore": {
+      "id": "INTBLC-4-Intact Graphene IntlCore",
       "file_name": "sp_item_res_t4_intact_graphene_intcore",
-      "item_name": "Intact Graphene IntlCore"
+      "item_name": "Intact Graphene IntlCore",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "FABRIC-2-Carbon Microfabric": {
+      "id": "FABRIC-2-Carbon Microfabric",
       "file_name": "sp_item_res_t2_carbon_microfabric",
-      "item_name": "Carbon Microfabric"
+      "item_name": "Carbon Microfabric",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "FABRIC-3-Carbonado Fabrics": {
+      "id": "FABRIC-3-Carbonado Fabrics",
       "file_name": "sp_item_res_t3_carbonado_fabrics",
-      "item_name": "Carbonado Fabrics"
+      "item_name": "Carbonado Fabrics",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "PR-COMP-1-Astra A18 Chip": {
+      "id": "PR-COMP-1-Astra A18 Chip",
       "file_name": "sp_item_res_t1_astra_a18_chip",
-      "item_name": "Astra A18 Chip"
+      "item_name": "Astra A18 Chip",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "PR-COMP-2-Hyper Diamond": {
+      "id": "PR-COMP-2-Hyper Diamond",
       "file_name": "sp_item_res_t2_hyper_diamond",
-      "item_name": "Hyper Diamond"
+      "item_name": "Hyper Diamond",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "PR-COMP-3-Quantum Chip": {
+      "id": "PR-COMP-3-Quantum Chip",
       "file_name": "sp_item_res_t3_quantum_chip",
-      "item_name": "Quantum Chip"
+      "item_name": "Quantum Chip",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "PR-COMP-4-Astra Compact TN Reactor": {
+      "id": "PR-COMP-4-Astra Compact TN Reactor",
       "file_name": "sp_item_res_t4_astra_compact_reactor",
-      "item_name": "Astra Compact TN Reactor"
+      "item_name": "Astra Compact TN Reactor",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "PR-COMP-5-Programmable Matter": {
+      "id": "PR-COMP-5-Programmable Matter",
       "file_name": "sp_item_res_t5_programmable_matter",
-      "item_name": "Programmable Matter"
+      "item_name": "Programmable Matter",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "START-Scrap-metal": {
+      "id": "START-Scrap-metal",
       "file_name": "sp_item_start_scrap_metal",
-      "item_name": "Scrapmetal"
+      "item_name": "Scrapmetal",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "START-Burned-engine": {
+      "id": "START-Burned-engine",
       "file_name": "sp_item_start_burned_engine",
-      "item_name": "Burned Engine"
+      "item_name": "Burned Engine",
+      "needed": "TRUE",
+      "storage_type": "RawResource"
     },
-    {
+    "OXYGEN": {
+      "id": "OXYGEN",
       "file_name": "sp_item_mat_oxygen",
-      "item_name": "Oxygen"
+      "item_name": "Oxygen",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "WATER-D-Polluted Water": {
+      "id": "WATER-D-Polluted Water",
       "file_name": "sp_item_mat_polluted_water",
-      "item_name": "Polluted Water"
+      "item_name": "Polluted Water",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "WATER-Potable Water": {
+      "id": "WATER-Potable Water",
       "file_name": "sp_item_mat_potable_water",
-      "item_name": "Potable Water"
+      "item_name": "Potable Water",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "WATER-Molecular Water": {
+      "id": "WATER-Molecular Water",
       "file_name": "sp_item_mat_molecular_water",
-      "item_name": "Molecular Water"
+      "item_name": "Molecular Water",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Lithium Compound": {
+      "id": "CMPD-Lithium Compound",
       "file_name": "sp_item_mat_lithium",
-      "item_name": "Lithium Compound"
+      "item_name": "Lithium Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "GAS-Organic Gases": {
+      "id": "GAS-Organic Gases",
       "file_name": "sp_item_mat_organic_carbon_gases",
-      "item_name": "Organic Gases"
+      "item_name": "Organic Gases",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "ACID-Nitric Acid": {
+      "id": "ACID-Nitric Acid",
       "file_name": "sp_item_mat_nitric_acid",
-      "item_name": "Nitric Acid"
+      "item_name": "Nitric Acid",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "ACID-Phosphoric Acids": {
+      "id": "ACID-Phosphoric Acids",
       "file_name": "sp_item_mat_phosphoric_acids",
-      "item_name": "Phosphoric Acids"
+      "item_name": "Phosphoric Acids",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "PLNBIO-Plant Biomatter": {
+      "id": "PLNBIO-Plant Biomatter",
       "file_name": "sp_item_mat_plant_biomatter",
-      "item_name": "Plant Biomatter"
+      "item_name": "Plant Biomatter",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "GAS-Phosgenic Gases": {
+      "id": "GAS-Phosgenic Gases",
       "file_name": "sp_item_mat_organic_phosgenic_gases",
-      "item_name": "Phosgenic Gases"
+      "item_name": "Phosgenic Gases",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "ACID-Carboxylic Acids": {
+      "id": "ACID-Carboxylic Acids",
       "file_name": "sp_item_mat_carboxylic_acids",
-      "item_name": "Carboxylic Acids"
+      "item_name": "Carboxylic Acids",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "PLNBIO-EC401-Mycelium": {
+      "id": "PLNBIO-EC401-Mycelium",
       "file_name": "sp_item_mat_plant_ec401_mycelium",
-      "item_name": "Mycelium EC401"
+      "item_name": "Mycelium EC401",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Ferric Compound": {
+      "id": "CMPD-Ferric Compound",
       "file_name": "sp_item_mat_ferronic_compound",
-      "item_name": "Ferric Compound"
+      "item_name": "Ferric Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Nickelic Compound": {
+      "id": "CMPD-Nickelic Compound",
       "file_name": "sp_item_mat_nickel_compound",
-      "item_name": "Nickelic Compound"
+      "item_name": "Nickelic Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Copper Compound": {
+      "id": "CMPD-Copper Compound",
       "file_name": "sp_item_mat_copper_compound",
-      "item_name": "Copper Compound"
+      "item_name": "Copper Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Titanium Compound": {
+      "id": "CMPD-Titanium Compound",
       "file_name": "sp_item_mat_titanium_compound",
-      "item_name": "Titanium Compound"
+      "item_name": "Titanium Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Rare Earth Compound": {
+      "id": "CMPD-Rare Earth Compound",
       "file_name": "sp_item_mat_rare_earth_compounds",
-      "item_name": "Rare Earth Compound"
+      "item_name": "Rare Earth Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Organic Compound": {
+      "id": "CMPD-Organic Compound",
       "file_name": "sp_item_mat_organic_compouds",
-      "item_name": "Organic Compound"
+      "item_name": "Organic Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Iridium Compound": {
+      "id": "CMPD-Iridium Compound",
       "file_name": "sp_item_mat_iridium_compound",
-      "item_name": "Iridium Compound"
+      "item_name": "Iridium Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CMPD-Tungsten Compound": {
+      "id": "CMPD-Tungsten Compound",
       "file_name": "sp_item_mat_tungsten_compound",
-      "item_name": "Tungsten Compound"
+      "item_name": "Tungsten Compound",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "Tristeel": {
+      "id": "Tristeel",
       "file_name": "sp_item_mat_tristeel",
-      "item_name": "Tristeel"
+      "item_name": "Tristeel",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "Ceramo-Crystallic Blocks": {
+      "id": "Ceramo-Crystallic Blocks",
       "file_name": "sp_item_mat_ceramic_blocks",
-      "item_name": "Ceramo-Crystallic Blocks"
+      "item_name": "Ceramo-Crystallic Blocks",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "PWDR-Carbonates Powders": {
+      "id": "PWDR-Carbonates Powders",
       "file_name": "sp_item_mat_carbonate_powders",
-      "item_name": "Carbonates Powders"
+      "item_name": "Carbonates Powders",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "PWDR-Silicates Powders": {
+      "id": "PWDR-Silicates Powders",
       "file_name": "sp_item_mat_silicate_powders",
-      "item_name": "Silicates Powders"
+      "item_name": "Silicates Powders",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "PWDR-Sulfates Powders": {
+      "id": "PWDR-Sulfates Powders",
       "file_name": "sp_item_mat_sulfates_powder",
-      "item_name": "Sulfates Powders"
+      "item_name": "Sulfates Powders",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CRSTL-Pentamorphic Crystals": {
+      "id": "CRSTL-Pentamorphic Crystals",
       "file_name": "sp_item_mat_pentamorphic_crystal",
-      "item_name": "Pentamorphic Crystals"
+      "item_name": "Pentamorphic Crystals",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "PWDR-Cyclophenites Powders": {
+      "id": "PWDR-Cyclophenites Powders",
       "file_name": "sp_item_mat_cyclophenites_powder",
-      "item_name": "Cyclophenites Powder"
+      "item_name": "Cyclophenites Powder",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CRSTL-Rough Quartz Crystals": {
+      "id": "CRSTL-Rough Quartz Crystals",
       "file_name": "sp_item_mat_rough_quartz_crystals",
-      "item_name": "Rough Quartz Crystals"
+      "item_name": "Rough Quartz Crystals",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "CRSTL-Fine Quartz Crystals": {
+      "id": "CRSTL-Fine Quartz Crystals",
       "file_name": "sp_item_mat_fine_quartz_crystals",
-      "item_name": "Fine Quartz Crystals"
+      "item_name": "Fine Quartz Crystals",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "METACRYS-Programmable Metacrystals": {
+      "id": "METACRYS-Programmable Metacrystals",
       "file_name": "sp_item_mat_programmable_metacrystals",
-      "item_name": "Programmable Metacrystals"
+      "item_name": "Programmable Metacrystals",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "METAPolyalloy": {
+      "id": "METAPolyalloy",
       "file_name": "sp_item_mat_lightweight_polyalloy",
-      "item_name": "Lightweight Polyalloy"
+      "item_name": "Lightweight Polyalloy",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "METAGraphene": {
+      "id": "METAGraphene",
       "file_name": "sp_item_mat_metagraphene",
-      "item_name": "MetaGraphene"
+      "item_name": "MetaGraphene",
+      "needed": "TRUE",
+      "storage_type": "Material"
     },
-    {
+    "BATTERY-1-Thin-film Lithium Battery": {
+      "id": "BATTERY-1-Thin-film Lithium Battery",
       "file_name": "sp_item_comp_thin_film_lithium_battery",
-      "item_name": "Thin-film Lithium Battery"
+      "item_name": "Thin-film Lithium Battery",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "BATTERY-2-Carbon Tube Battery": {
+      "id": "BATTERY-2-Carbon Tube Battery",
       "file_name": "sp_item_comp_carbon_tube_battery",
-      "item_name": "Carbon Tube Battery"
+      "item_name": "Carbon Tube Battery",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "BATTERY-3-Fullerene Battery": {
+      "id": "BATTERY-3-Fullerene Battery",
       "file_name": "sp_item_comp_fullerene_battery",
-      "item_name": "Fullerene Battery"
+      "item_name": "Fullerene Battery",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "RAILS-1-Rudimentary Rails": {
+      "id": "RAILS-1-Rudimentary Rails",
       "file_name": "sp_item_comp_rudimentary_rails",
-      "item_name": "Rudimentary Rails"
+      "item_name": "Rudimentary Rails",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "RAILS-2-Tristeel Rails": {
+      "id": "RAILS-2-Tristeel Rails",
       "file_name": "sp_item_comp_tristeel_rails",
-      "item_name": "Tristeel Rails"
+      "item_name": "Tristeel Rails",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "RAILS-3-Titanium-Iridium-Rails": {
+      "id": "RAILS-3-Titanium-Iridium-Rails",
       "file_name": "sp_item_comp_titanium_iridium_rails",
-      "item_name": "Titanium-Iridium Rails"
+      "item_name": "Titanium-Iridium Rails",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "EmCoils-1-Ferric E/M Coils": {
+      "id": "EmCoils-1-Ferric E/M Coils",
       "file_name": "sp_item_comp_ferrorganic_em_coils",
-      "item_name": "Ferroorganic E/M Coils"
+      "item_name": "Ferroorganic E/M Coils",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "EmCoils-2-Copper E/M Coils": {
+      "id": "EmCoils-2-Copper E/M Coils",
       "file_name": "sp_item_comp_copper_em_coils",
-      "item_name": "Copper E/M Coils"
+      "item_name": "Copper E/M Coils",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "EmCoils-3-Samarium E/M Coils": {
+      "id": "EmCoils-3-Samarium E/M Coils",
       "file_name": "sp_item_comp_samarium_em_coils",
-      "item_name": "Samarium E/M Coils"
+      "item_name": "Samarium E/M Coils",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "LENS-1-Optical LENS": {
+      "id": "LENS-1-Optical LENS",
       "file_name": "sp_item_comp_optical_lens",
-      "item_name": "Optical Red LENS"
+      "item_name": "Optical Red LENS",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "LENS-2-IR-X LENS": {
+      "id": "LENS-2-IR-X LENS",
       "file_name": "sp_item_comp_ir_x_lens",
-      "item_name": "IR-X Green LENS"
+      "item_name": "IR-X Green LENS",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "LENS-3-PhQD LENS": {
+      "id": "LENS-3-PhQD LENS",
       "file_name": "sp_item_comp_phqd_lens",
-      "item_name": "Phosphoric Blue QD LENS"
+      "item_name": "Phosphoric Blue QD LENS",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "Str-R-1-ReinStrElem": {
+      "id": "Str-R-1-ReinStrElem",
       "file_name": "sp_item_comp_riffle_structure",
-      "item_name": "Reinforced Str.Elements"
+      "item_name": "Reinforced Str.Elements",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "Str-G-1-Structural Elements": {
+      "id": "Str-G-1-Structural Elements",
       "file_name": "sp_item_comp_gun_structure",
-      "item_name": "Structural Elements"
+      "item_name": "Structural Elements",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "Str-R-2-Tristeel ReinStrElem": {
+      "id": "Str-R-2-Tristeel ReinStrElem",
       "file_name": "sp_item_comp_tristeel_riffle_structure",
-      "item_name": "Reinforced Tristeel Str.Elements"
+      "item_name": "Reinforced Tristeel Str.Elements",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "Str-G-2-Tristeel Structural Elements": {
+      "id": "Str-G-2-Tristeel Structural Elements",
       "file_name": "sp_item_comp_tristeel_gun_structure",
-      "item_name": "Tristeel Structural Elements"
+      "item_name": "Tristeel Structural Elements",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "Str-G-3-Polyalloy Structural Elements": {
+      "id": "Str-G-3-Polyalloy Structural Elements",
       "file_name": "sp_item_comp_polyalloy_structure",
-      "item_name": "Polyalloy Structural Elements"
+      "item_name": "Polyalloy Structural Elements",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "ARC-2-Carbon Tube Lattices": {
+      "id": "ARC-2-Carbon Tube Lattices",
       "file_name": "sp_item_comp_carbon_tube_lattices",
-      "item_name": "Carbon Tube Lattices"
+      "item_name": "Carbon Tube Lattices",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "ARC-1-Nickel-Ceramic Microtiles": {
+      "id": "ARC-1-Nickel-Ceramic Microtiles",
       "file_name": "sp_item_comp_nickel_ceramic_microtiles",
-      "item_name": "Nickel-Ceramic Microtiles"
+      "item_name": "Nickel-Ceramic Microtiles",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "ARC-3-PentaPolyalloy": {
+      "id": "ARC-3-PentaPolyalloy",
       "file_name": "sp_item_comp_pentapolyalloy",
-      "item_name": "PentaPolyalloy Tiles"
+      "item_name": "PentaPolyalloy Tiles",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "TRGCMPT-1-Basic Targeting Computer": {
+      "id": "TRGCMPT-1-Basic Targeting Computer",
       "file_name": "sp_item_comp_basic_targeting_computer",
-      "item_name": "Basic Targeting Computer"
+      "item_name": "Basic Targeting Computer",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "TRGCMPT-2-Adv. Targeting Computer": {
+      "id": "TRGCMPT-2-Adv. Targeting Computer",
       "file_name": "sp_item_comp_adv_targeting_computer",
-      "item_name": "Adv. Targeting Computer"
+      "item_name": "Adv. Targeting Computer",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "TRGCMPT-3-Graphere Computer": {
+      "id": "TRGCMPT-3-Graphere Computer",
       "file_name": "sp_item_comp_graphene_computer",
-      "item_name": "Graphene Reaction Core"
+      "item_name": "Graphene Reaction Core",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "TRGCMPT-4-Quickmatter Computer": {
+      "id": "TRGCMPT-4-Quickmatter Computer",
       "file_name": "sp_item_comp_qm_computer",
-      "item_name": "Quickmatter Computer"
+      "item_name": "Quickmatter Computer",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "SPCL-Rocket Shell": {
+      "id": "SPCL-Rocket Shell",
       "file_name": "sp_item_comp_rocket_shell",
-      "item_name": "Rocket Shell"
+      "item_name": "Rocket Shell",
+      "needed": "TRUE",
+      "storage_type": "Component"
     },
-    {
+    "QUEST-Gravity Resonator": {
+      "id": "QUEST-Gravity Resonator",
       "file_name": "sp_item_quest_gravity_resonator",
-      "item_name": "Gravity Resonator"
+      "item_name": "Gravity Resonator",
+      "needed": "TRUE",
+      "storage_type": "QuestItem"
     },
-    {
+    "Consumable-BAR-BananaHonk": {
+      "id": "Consumable-BAR-BananaHonk",
       "file_name": "sp_item_bananahonk",
-      "item_name": "Banana Honk"
+      "item_name": "Banana Honk",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-BAR-GalacticBlaster": {
+      "id": "Consumable-BAR-GalacticBlaster",
       "file_name": "sp_item_pan-galactic_gargle_blaster",
-      "item_name": "Pan-Galactic Gargle Blaster"
+      "item_name": "Pan-Galactic Gargle Blaster",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-BAR-PacificSurprise": {
+      "id": "Consumable-BAR-PacificSurprise",
       "file_name": "sp_item_pacific_surprise",
-      "item_name": "Pacific Surprise"
+      "item_name": "Pacific Surprise",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-HK-0": {
+      "id": "Consumable-HK-0",
       "file_name": "sp_item_consumable_HealingKit0",
-      "item_name": "First Aid Pack"
+      "item_name": "First Aid Pack",
+      "needed": "TRUE",
+      "storage_type": "Medicine"
     },
-    {
+    "Consumable-HK-1": {
+      "id": "Consumable-HK-1",
       "file_name": "sp_item_consumable_HealingKit1",
-      "item_name": "MedKit"
+      "item_name": "MedKit",
+      "needed": "TRUE",
+      "storage_type": "Medicine"
     },
-    {
+    "Consumable-HK-2": {
+      "id": "Consumable-HK-2",
       "file_name": "sp_item_consumable_HealingKit2",
-      "item_name": "Emergency Medichines"
+      "item_name": "Emergency Medichines",
+      "needed": "TRUE",
+      "storage_type": "Medicine"
     },
-    {
+    "Consumable-HK-3": {
+      "id": "Consumable-HK-3",
       "file_name": "sp_item_consumable_HealingKit3",
-      "item_name": "Military Medichines"
+      "item_name": "Military Medichines",
+      "needed": "TRUE",
+      "storage_type": "Medicine"
     },
-    {
+    "Consumable-PotableWater": {
+      "id": "Consumable-PotableWater",
       "file_name": "sp_item_food_water",
-      "item_name": "Potable Water (bottle)"
+      "item_name": "Potable Water (bottle)",
+      "needed": "TRUE",
+      "storage_type": "Water"
     },
-    {
+    "Consumable-AntiRad-1": {
+      "id": "Consumable-AntiRad-1",
       "file_name": "sp_item_consumable_antirad1",
-      "item_name": "Stabilon-300"
+      "item_name": "Stabilon-300",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-AntiRad-2": {
+      "id": "Consumable-AntiRad-2",
       "file_name": "sp_item_consumable_antirad2",
-      "item_name": "Telocure-Forte"
+      "item_name": "Telocure-Forte",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-AntiRad-3": {
+      "id": "Consumable-AntiRad-3",
       "file_name": "sp_item_consumable_antirad3",
-      "item_name": "Astra Restoration Ultra"
+      "item_name": "Astra Restoration Ultra",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "SrvSuit-1": {
+      "id": "SrvSuit-1",
       "file_name": "sp_item_survival_suit_mk2",
-      "item_name": "Survival Suit MK2"
+      "item_name": "Survival Suit MK2",
+      "needed": "TRUE",
+      "storage_type": "Suit"
     },
-    {
+    "SrvSuit-2": {
+      "id": "SrvSuit-2",
       "file_name": "sp_item_survival_suit_mk3",
-      "item_name": "Survival Suit MK3"
+      "item_name": "Survival Suit MK3",
+      "needed": "TRUE",
+      "storage_type": "Suit"
     },
-    {
+    "SrvSuit-3": {
+      "id": "SrvSuit-3",
       "file_name": "sp_item_survival_suit_mk4",
-      "item_name": "Survival Suit MK4"
+      "item_name": "Survival Suit MK4",
+      "needed": "TRUE",
+      "storage_type": "Suit"
     },
-    {
+    "SrvSuit-4": {
+      "id": "SrvSuit-4",
       "file_name": "sp_item_survival_suit_mk5",
-      "item_name": "Survival Suit MK5"
+      "item_name": "Survival Suit MK5",
+      "needed": "TRUE",
+      "storage_type": "Suit"
     },
-    {
+    "JetPackT1": {
+      "id": "JetPackT1",
       "file_name": "sp_item_armor_jetpack_t1",
-      "item_name": "Oxygen Jetpack"
+      "item_name": "Oxygen Jetpack",
+      "needed": "TRUE",
+      "storage_type": "Jetpack"
     },
-    {
+    "WPN-CL10-T0-Primitive-Shrapnel-Gun": {
+      "id": "WPN-CL10-T0-Primitive-Shrapnel-Gun",
       "file_name": "sp_item_weapon_railgun_riffle_double_hand_t0",
-      "item_name": "Primitive Shrapnel Gun"
+      "item_name": "Primitive Shrapnel Gun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML10-Melee-1H-T1-0": {
+      "id": "WPN-ML10-Melee-1H-T1-0",
       "file_name": "sp_item_weapon_mellee_single_handed_t0",
-      "item_name": "Iron-Nickelic Knife"
+      "item_name": "Iron-Nickelic Knife",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML11-Melee-1H-T1-1": {
+      "id": "WPN-ML11-Melee-1H-T1-1",
       "file_name": "sp_item_weapon_mellee_single_handed_t1-1",
-      "item_name": "Quartz-Organic Knife"
+      "item_name": "Quartz-Organic Knife",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML21-Melee-1H-T2-1": {
+      "id": "WPN-ML21-Melee-1H-T2-1",
       "file_name": "sp_item_weapon_mellee_single_handed_t2-1",
-      "item_name": "Crystallic Knife"
+      "item_name": "Crystallic Knife",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML31-Melee-1H-T3-1": {
+      "id": "WPN-ML31-Melee-1H-T3-1",
       "file_name": "sp_item_weapon_knife_T3-1",
-      "item_name": "Metacrystal Knife"
+      "item_name": "Metacrystal Knife",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML41-Melee-1H-T4-1": {
+      "id": "WPN-ML41-Melee-1H-T4-1",
       "file_name": "sp_w4p-ml41-melee-1h-t4-1",
-      "item_name": "Diamondoid Knife"
+      "item_name": "Diamondoid Knife",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML12-Melee-2H-T1-2-club": {
+      "id": "WPN-ML12-Melee-2H-T1-2-club",
       "file_name": "sp_item_weapon_blunt",
-      "item_name": "Wrench"
+      "item_name": "Wrench",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML12-Melee-2H-T1-2": {
+      "id": "WPN-ML12-Melee-2H-T1-2",
       "file_name": "sp_item_weapon_mellee_double_handed_t1-2",
-      "item_name": "Quartz-Organic Crusher"
+      "item_name": "Quartz-Organic Crusher",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML22-Melee-2H-T2-2": {
+      "id": "WPN-ML22-Melee-2H-T2-2",
       "file_name": "sp_item_weapon_mellee_double_handed_t2-2",
-      "item_name": "Tristeel Reinforced Crusher"
+      "item_name": "Tristeel Reinforced Crusher",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-ML42-Melee-2H-T4-2": {
+      "id": "WPN-ML42-Melee-2H-T4-2",
       "file_name": "sp_item_weapon_mellee_double_handed_t2-2",
-      "item_name": "OctaCoesite Crusher"
+      "item_name": "OctaCoesite Crusher",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrGun11-Laser-gun-T1-1": {
+      "id": "WPN-LzrGun11-Laser-gun-T1-1",
       "file_name": "sp_item_weapon_laser_gun_t1-1",
-      "item_name": "Simple Optical Lasergun"
+      "item_name": "Simple Optical Lasergun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrGun12-Laser-gun-T1-2": {
+      "id": "WPN-LzrGun12-Laser-gun-T1-2",
       "file_name": "sp_item_weapon_laser_gun_t1-2",
-      "item_name": "Improved Optical Lasergun"
+      "item_name": "Improved Optical Lasergun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrGun21-Laser-gun-T2-1": {
+      "id": "WPN-LzrGun21-Laser-gun-T2-1",
       "file_name": "sp_item_weapon_laser_gun_t2-1",
-      "item_name": "IR-X Lasergun"
+      "item_name": "IR-X Lasergun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrRifle22-Laser-rifle-T2-2": {
+      "id": "WPN-LzrRifle22-Laser-rifle-T2-2",
       "file_name": "sp_item_weapon_Laser_Rifle_T2-1",
-      "item_name": "IR-X Laser Rifle"
+      "item_name": "IR-X Laser Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrGun22-Laser-gun-T2-2": {
+      "id": "WPN-LzrGun22-Laser-gun-T2-2",
       "file_name": "sp_w4p_wpn-lzrgun22-laser-gun-t2-2",
-      "item_name": "Improved IR-X Lasergun"
+      "item_name": "Improved IR-X Lasergun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrGun31-Laser-gun-T3-1": {
+      "id": "WPN-LzrGun31-Laser-gun-T3-1",
       "file_name": "sp_w4p-lzrgun41-laser-gun-t4-1",
-      "item_name": "Ph-QDot Lasergun"
+      "item_name": "Ph-QDot Lasergun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrRifle32-Laser-rifle-T3-2": {
+      "id": "WPN-LzrRifle32-Laser-rifle-T3-2",
       "file_name": "sp_item_weapon_laser_rifle_t4-2",
-      "item_name": "Ph-QDot Laser Rifle"
+      "item_name": "Ph-QDot Laser Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrGun41-Laser-gun-T4-1": {
+      "id": "WPN-LzrGun41-Laser-gun-T4-1",
       "file_name": "sp_item_weapon_laser_gun_t2-2",
-      "item_name": "Erbium Lasergun"
+      "item_name": "Erbium Lasergun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-LzrRifle41-Laser-rifle-T4-1": {
+      "id": "WPN-LzrRifle41-Laser-rifle-T4-1",
       "file_name": "sp_w4p-lzrgun32-laser-gun-t3-2",
-      "item_name": "Erbium Laser Rifle"
+      "item_name": "Erbium Laser Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-CL11-CoilGun-T1-1": {
+      "id": "WPN-CL11-CoilGun-T1-1",
       "file_name": "sp_w4p-coilgun-t1-1",
-      "item_name": "Ferrorganic Coilgun"
+      "item_name": "Ferrorganic Coilgun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-CL21-CoilGun-T2-1": {
+      "id": "WPN-CL21-CoilGun-T2-1",
       "file_name": "sp_w4p-coilgun-t2-1",
-      "item_name": "Copper Coilgun"
+      "item_name": "Copper Coilgun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-CL31-CoilGun-T3-1": {
+      "id": "WPN-CL31-CoilGun-T3-1",
       "file_name": "sp_w4p-coilgun-t3-1",
-      "item_name": "Samarium Coilgun"
+      "item_name": "Samarium Coilgun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-CL41-CoilGun-T4-1": {
+      "id": "WPN-CL41-CoilGun-T4-1",
       "file_name": "sp_w4p-coilgun-t4-1",
-      "item_name": "Ultra-SmCO Coilgun"
+      "item_name": "Ultra-SmCO Coilgun",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-R11-RailgunRifle-1": {
+      "id": "WPN-R11-RailgunRifle-1",
       "file_name": "sp_item_weapon_railgun_riffle_double_hand_t1-1",
-      "item_name": "Simple 8mm Railgun Rifle"
+      "item_name": "Simple 8mm Railgun Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-R12-RailgunRifle-2": {
+      "id": "WPN-R12-RailgunRifle-2",
       "file_name": "sp_item_weapon_railgun_riffle_double_hand_t1-2",
-      "item_name": "Improved 8mm Railgun Rifle"
+      "item_name": "Improved 8mm Railgun Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-R21-RailgunRifle-3": {
+      "id": "WPN-R21-RailgunRifle-3",
       "file_name": "sp_item_weapon_railgun_riffle_double_hand_t2-1",
-      "item_name": "14mm Railgun Rifle"
+      "item_name": "14mm Railgun Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-R22-RailgunRifle-4": {
+      "id": "WPN-R22-RailgunRifle-4",
       "file_name": "sp_item_weapon_railgun_riffle_double_hand_t2-2",
-      "item_name": "Improved 14mm Railgun Rifle"
+      "item_name": "Improved 14mm Railgun Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-R31-RailgunRifle-5": {
+      "id": "WPN-R31-RailgunRifle-5",
       "file_name": "sp_w4p-r31-railgunrifle-5",
-      "item_name": "Supersonic 15mm Railgun Rifle"
+      "item_name": "Supersonic 15mm Railgun Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-R32-Rocket-Launcher-1": {
+      "id": "WPN-R32-Rocket-Launcher-1",
       "file_name": "sp_w4p-r32-rocketlauncher-1",
-      "item_name": "Hypergolic Rocket Launcher"
+      "item_name": "Hypergolic Rocket Launcher",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-R41-RailgunRifle-7": {
+      "id": "WPN-R41-RailgunRifle-7",
       "file_name": "sp_item_weapon_railgun_riffle_heavy_t2-2",
-      "item_name": "Hypersonic 16mm Railgun Rifle"
+      "item_name": "Hypersonic 16mm Railgun Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-HRR22-Heavy-Railgun-Rifle": {
+      "id": "WPN-HRR22-Heavy-Railgun-Rifle",
       "file_name": "sp_item_weapon_railgun_riffle_heavy_t2-2",
-      "item_name": "Experimental Heavy 16mm Railgun Rifle"
+      "item_name": "Experimental Heavy 16mm Railgun Rifle",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "WPN-AGL21-AOE-Grenade-Launcher": {
+      "id": "WPN-AGL21-AOE-Grenade-Launcher",
       "file_name": "sp_item_weapon_grenade_launcher",
-      "item_name": "Chemical Grenade Launcher"
+      "item_name": "Chemical Grenade Launcher",
+      "needed": "TRUE",
+      "storage_type": "Weapon"
     },
-    {
+    "OC1-Multitool": {
+      "id": "OC1-Multitool",
       "file_name": "sp_item_tool",
-      "item_name": "Laser Ore Cutter"
+      "item_name": "Laser Ore Cutter",
+      "needed": "TRUE",
+      "storage_type": "Tool"
     },
-    {
+    "OC0-Drill": {
+      "id": "OC0-Drill",
       "file_name": "sp_item_tool_t0",
-      "item_name": "Primitive Ore Drill"
+      "item_name": "Primitive Ore Drill",
+      "needed": "TRUE",
+      "storage_type": "Tool"
     },
-    {
+    "ARMOR-H11": {
+      "id": "ARMOR-H11",
       "file_name": "sp_item_armor_mask_t1-1",
-      "item_name": "Ni-Ceramic Combat Helmet"
+      "item_name": "Ni-Ceramic Combat Helmet",
+      "needed": "TRUE",
+      "storage_type": "Helmet"
     },
-    {
+    "ARMOR-C11": {
+      "id": "ARMOR-C11",
       "file_name": "sp_item_armor_body",
-      "item_name": "Ni-Ceramic Combat Chestpiece"
+      "item_name": "Ni-Ceramic Combat Chestpiece",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-L11": {
+      "id": "ARMOR-L11",
       "file_name": "sp_item_armor_leg_t1-1",
-      "item_name": "Ni-Ceramic Leg Armor"
+      "item_name": "Ni-Ceramic Leg Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-G11": {
+      "id": "ARMOR-G11",
       "file_name": "sp_item_armor_hands_t1-1",
-      "item_name": "Ni-Ceramic Armor Gauntlents"
+      "item_name": "Ni-Ceramic Armor Gauntlents",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-H12": {
+      "id": "ARMOR-H12",
       "file_name": "sp_item_armor_mask_t1-2",
-      "item_name": "Impr. Ni-Ceramic Combat Helmet"
+      "item_name": "Impr. Ni-Ceramic Combat Helmet",
+      "needed": "TRUE",
+      "storage_type": "Helmet"
     },
-    {
+    "ARMOR-C12": {
+      "id": "ARMOR-C12",
       "file_name": "sp_item_armor_body_t1-2",
-      "item_name": "Impr. Ni-Ceramic Combat Chestpiece"
+      "item_name": "Impr. Ni-Ceramic Combat Chestpiece",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-L12": {
+      "id": "ARMOR-L12",
       "file_name": "sp_item_armor_leg_t1-2",
-      "item_name": "Impr. Ni-Ceramic Leg Armor"
+      "item_name": "Impr. Ni-Ceramic Leg Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-G12": {
+      "id": "ARMOR-G12",
       "file_name": "sp_item_armor_hands_t1-2",
-      "item_name": "Impr. Ni-Ceramic Hands Armor"
+      "item_name": "Impr. Ni-Ceramic Hands Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-H21": {
+      "id": "ARMOR-H21",
       "file_name": "sp_item_armor_mask_t2-1",
-      "item_name": "Carbon Combat Helmet"
+      "item_name": "Carbon Combat Helmet",
+      "needed": "TRUE",
+      "storage_type": "Helmet"
     },
-    {
+    "ARMOR-C21": {
+      "id": "ARMOR-C21",
       "file_name": "sp_item_armor_body_t2-1.",
-      "item_name": "Carbon Combat Chestpiece"
+      "item_name": "Carbon Combat Chestpiece",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-L21": {
+      "id": "ARMOR-L21",
       "file_name": "sp_item_armor_leg_t2-1",
-      "item_name": "Carbon Leg Armor"
+      "item_name": "Carbon Leg Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-G21": {
+      "id": "ARMOR-G21",
       "file_name": "sp_item_armor_hands_t2-1",
-      "item_name": "Carbon Hands Armor"
+      "item_name": "Carbon Hands Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-H22": {
+      "id": "ARMOR-H22",
       "file_name": "sp_item_armor_mask_t2-2",
-      "item_name": "HyperCarbon Combat Helmet"
+      "item_name": "HyperCarbon Combat Helmet",
+      "needed": "TRUE",
+      "storage_type": "Helmet"
     },
-    {
+    "ARMOR-C22": {
+      "id": "ARMOR-C22",
       "file_name": "sp_item_armor_body_t2-2",
-      "item_name": "HyperCarbon Combat Chestpiece"
+      "item_name": "HyperCarbon Combat Chestpiece",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-L22": {
+      "id": "ARMOR-L22",
       "file_name": "sp_item_armor_leg_t2-2",
-      "item_name": "HyperCarbon Leg Armor"
+      "item_name": "HyperCarbon Leg Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-G22": {
+      "id": "ARMOR-G22",
       "file_name": "sp_item_armor_hands_t2-2",
-      "item_name": "HyperCarbon Hands Armor"
+      "item_name": "HyperCarbon Hands Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-H23": {
+      "id": "ARMOR-H23",
       "file_name": "sp_item_armor_mask_t2-3",
-      "item_name": "C.Hyperweave Combat Helmet"
+      "item_name": "C.Hyperweave Combat Helmet",
+      "needed": "TRUE",
+      "storage_type": "Helmet"
     },
-    {
+    "ARMOR-C23": {
+      "id": "ARMOR-C23",
       "file_name": "sp_item_armor_body_t2-3",
-      "item_name": "C.Hyperweave Combat Chestpiece"
+      "item_name": "C.Hyperweave Combat Chestpiece",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-L23": {
+      "id": "ARMOR-L23",
       "file_name": "sp_item_armor_leg_t2-3",
-      "item_name": "C.Hyperweave Leg Armor"
+      "item_name": "C.Hyperweave Leg Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-G23": {
+      "id": "ARMOR-G23",
       "file_name": "sp_item_armor_hands_t2-3",
-      "item_name": "C.Hyperweave Hands Armor"
+      "item_name": "C.Hyperweave Hands Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-H31": {
+      "id": "ARMOR-H31",
       "file_name": "sp_item_armor_mask_t2-2",
-      "item_name": "Polyalloy Combat Helmet"
+      "item_name": "Polyalloy Combat Helmet",
+      "needed": "TRUE",
+      "storage_type": "Helmet"
     },
-    {
+    "ARMOR-C31": {
+      "id": "ARMOR-C31",
       "file_name": "sp_item_armor_body_t2-2",
-      "item_name": "Polyalloy Combat Chestpiece"
+      "item_name": "Polyalloy Combat Chestpiece",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-L31": {
+      "id": "ARMOR-L31",
       "file_name": "sp_item_armor_leg_t2-2",
-      "item_name": "Polyalloy Leg Armor"
+      "item_name": "Polyalloy Leg Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-G31": {
+      "id": "ARMOR-G31",
       "file_name": "sp_item_armor_hands_t2-2",
-      "item_name": "Polyalloy Hands Armor"
+      "item_name": "Polyalloy Hands Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-H32": {
+      "id": "ARMOR-H32",
       "file_name": "sp_item_armor_t3-2_1helmet",
-      "item_name": "CyPh-Polyalloy Combat Helmet"
+      "item_name": "CyPh-Polyalloy Combat Helmet",
+      "needed": "TRUE",
+      "storage_type": "Helmet"
     },
-    {
+    "ARMOR-C32": {
+      "id": "ARMOR-C32",
       "file_name": "sp_item_armor_t3-2_2chest",
-      "item_name": "CyPh-Polyalloy Combat Chestpiece"
+      "item_name": "CyPh-Polyalloy Combat Chestpiece",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-L32": {
+      "id": "ARMOR-L32",
       "file_name": "sp_item_armor_t3-2_3legs",
-      "item_name": "CyPh-Polyalloy Leg Armor"
+      "item_name": "CyPh-Polyalloy Leg Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "ARMOR-G32": {
+      "id": "ARMOR-G32",
       "file_name": "sp_item_armor_t3-2_4hands",
-      "item_name": "CyPh-Polyalloy Hands Armor"
+      "item_name": "CyPh-Polyalloy Hands Armor",
+      "needed": "TRUE",
+      "storage_type": "Armor"
     },
-    {
+    "Consumable-Credits": {
+      "id": "Consumable-Credits",
       "file_name": "sp_item_consumable_credits",
-      "item_name": "Credits"
+      "item_name": "Credits",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-XP-experience": {
+      "id": "Consumable-XP-experience",
       "file_name": "sp_item_consumable_xp-experience",
-      "item_name": "Experience"
+      "item_name": "Experience",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-BlueprintProduction": {
+      "id": "Consumable-BlueprintProduction",
       "file_name": "sp_item_consumable_blueprint_production",
-      "item_name": "Production Blueprint"
+      "item_name": "Production Blueprint",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-BlueprintConstrucion": {
+      "id": "Consumable-BlueprintConstrucion",
       "file_name": "sp_item_consumable_blueprint_construction",
-      "item_name": "Construcion Blueprint"
+      "item_name": "Construcion Blueprint",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-BlueprintImproved": {
+      "id": "Consumable-BlueprintImproved",
       "file_name": "sp_item_consumable_blueprint_improved",
-      "item_name": "Construcion Blueprint"
+      "item_name": "Construcion Blueprint",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-FuelFree": {
+      "id": "Consumable-FuelFree",
       "file_name": "sp_item_consumable_fuelfree",
-      "item_name": "Fuel (Hydrogen)"
+      "item_name": "Fuel (Hydrogen)",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     },
-    {
+    "Consumable-FuelPremium": {
+      "id": "Consumable-FuelPremium",
       "file_name": "sp_item_consumable_fuelpremium",
-      "item_name": "Exotic Matter Fuel (Premium)"
+      "item_name": "Exotic Matter Fuel (Premium)",
+      "needed": "TRUE",
+      "storage_type": "Consumable"
     }
-  ]
+  },
+  "machines": {
+    "Grinder": {
+      "name": "Grinder",
+      "tiers": {
+        "1": [
+          {
+            "id": "START-Scrap-metal",
+            "count": 17
+          },
+          {
+            "id": "START-Burned-engine",
+            "count": 2
+          },
+          {
+            "id": "PR-COMP-2-Hyper Diamond",
+            "count": 1
+          }
+        ],
+        "2": [
+          {
+            "id": "PR-COMP-2-Hyper Diamond",
+            "count": 12
+          },
+          {
+            "id": "GAS-Organic Gases",
+            "count": 40
+          },
+          {
+            "id": "PR-COMP-1-Astra A18 Chip",
+            "count": 4
+          },
+          {
+            "id": "CMPD-Nickelic Compound",
+            "count": 24
+          }
+        ],
+        "3": [
+          {
+            "id": "ACID-Phosphoric Acids",
+            "count": 24
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 20
+          },
+          {
+            "id": "CMPD-Titanium Compound",
+            "count": 20
+          },
+          {
+            "id": "Tristeel",
+            "count": 40
+          }
+        ]
+      }
+    },
+    "Boiller": {
+      "name": "Boiller",
+      "tiers": {
+        "1": [
+          {
+            "id": "CMPD-Organic Compound",
+            "count": 20
+          },
+          {
+            "id": "CRSTL-Rough Quartz Crystals",
+            "count": 2
+          },
+          {
+            "id": "START-Scrap-metal",
+            "count": 20
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 2
+          }
+        ],
+        "2": [
+          {
+            "id": "CMPD-Copper Compound",
+            "count": 30
+          },
+          {
+            "id": "GAS-Organic Gases",
+            "count": 40
+          },
+          {
+            "id": "EmCoils-1-Ferric E/M Coils",
+            "count": 2
+          },
+          {
+            "id": "PR-COMP-1-Astra A18 Chip",
+            "count": 8
+          }
+        ],
+        "3": [
+          {
+            "id": "FABRIC-2-Carbon Microfabric",
+            "count": 10
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 20
+          },
+          {
+            "id": "EmCoils-2-Copper E/M Coils",
+            "count": 2
+          },
+          {
+            "id": "Tristeel",
+            "count": 20
+          }
+        ]
+      }
+    },
+    "InductionFurnace": {
+      "name": "Induction Furnace",
+      "tiers": {
+        "1": [
+          {
+            "id": "Ceramo-Crystallic Blocks",
+            "count": 50
+          },
+          {
+            "id": "Str-G-1-Structural Elements",
+            "count": 2
+          },
+          {
+            "id": "EmCoils-1-Ferric E/M Coils",
+            "count": 4
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 6
+          }
+        ],
+        "2": [
+          {
+            "id": "EmCoils-1-Ferric E/M Coils",
+            "count": 4
+          },
+          {
+            "id": "PWDR-Silicates Powders",
+            "count": 50
+          },
+          {
+            "id": "CMPD-Lithium Compound",
+            "count": 20
+          },
+          {
+            "id": "CMPD-Nickelic Compound",
+            "count": 50
+          }
+        ],
+        "3": [
+          {
+            "id": "EmCoils-2-Copper E/M Coils",
+            "count": 4
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 20
+          },
+          {
+            "id": "CMPD-Titanium Compound",
+            "count": 16
+          },
+          {
+            "id": "Tristeel",
+            "count": 40
+          }
+        ]
+      }
+    },
+    "Nanoprinter": {
+      "name": "Nanoprinter",
+      "tiers": {
+        "1": [
+          {
+            "id": "CMPD-Organic Compound",
+            "count": 40
+          },
+          {
+            "id": "PWDR-Carbonates Powders",
+            "count": 20
+          },
+          {
+            "id": "CRSTL-Rough Quartz Crystals",
+            "count": 2
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 4
+          }
+        ],
+        "2": [
+          {
+            "id": "BATTERY-1-Thin-film Lithium Battery",
+            "count": 4
+          },
+          {
+            "id": "PR-COMP-2-Hyper Diamond",
+            "count": 1
+          },
+          {
+            "id": "CMPD-Nickelic Compound",
+            "count": 24
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 4
+          }
+        ],
+        "3": [
+          {
+            "id": "PWDR-Silicates Powders",
+            "count": 100
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 20
+          },
+          {
+            "id": "INTBLC-3-Neural substrate",
+            "count": 10
+          },
+          {
+            "id": "PR-COMP-2-Hyper Diamond",
+            "count": 4
+          }
+        ]
+      }
+    },
+    "BatteryMachine": {
+      "name": "Battery Machine",
+      "tiers": {
+        "1": [
+          {
+            "id": "Ceramo-Crystallic Blocks",
+            "count": 25
+          },
+          {
+            "id": "START-Burned-engine",
+            "count": 6
+          },
+          {
+            "id": "ACID-Nitric Acid",
+            "count": 80
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 4
+          }
+        ],
+        "2": [
+          {
+            "id": "CMPD-Nickelic Compound",
+            "count": 24
+          },
+          {
+            "id": "CMPD-Ferric Compound",
+            "count": 48
+          },
+          {
+            "id": "FABRIC-2-Carbon Microfabric",
+            "count": 10
+          },
+          {
+            "id": "BATTERY-1-Thin-film Lithium Battery",
+            "count": 2
+          }
+        ],
+        "3": [
+          {
+            "id": "ACID-Phosphoric Acids",
+            "count": 20
+          },
+          {
+            "id": "PR-COMP-1-Astra A18 Chip",
+            "count": 10
+          },
+          {
+            "id": "METACRYS-Programmable Metacrystals",
+            "count": 10
+          },
+          {
+            "id": "FABRIC-3-Carbonado Fabrics",
+            "count": 6
+          }
+        ]
+      }
+    },
+    "OpticsLab": {
+      "name": "Optics Lab",
+      "tiers": {
+        "1": [
+          {
+            "id": "CMPD-Organic Compound",
+            "count": 40
+          },
+          {
+            "id": "CMPD-Lithium Compound",
+            "count": 16
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 10
+          }
+        ],
+        "2": [
+          {
+            "id": "PR-COMP-2-Hyper Diamond",
+            "count": 6
+          },
+          {
+            "id": "ACID-Carboxylic Acids",
+            "count": 40
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 6
+          },
+          {
+            "id": "PWDR-Silicates Powders",
+            "count": 100
+          }
+        ],
+        "3": [
+          {
+            "id": "Str-G-2-Tristeel Structural Elements",
+            "count": 5
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 10
+          },
+          {
+            "id": "PR-COMP-2-Hyper Diamond",
+            "count": 20
+          },
+          {
+            "id": "METACRYS-Programmable Metacrystals",
+            "count": 10
+          }
+        ]
+      }
+    },
+    "ChemLab": {
+      "name": "Chem Lab",
+      "tiers": {
+        "1": [
+          {
+            "id": "Ceramo-Crystallic Blocks",
+            "count": 25
+          },
+          {
+            "id": "CMPD-Lithium Compound",
+            "count": 8
+          },
+          {
+            "id": "ACID-Nitric Acid",
+            "count": 60
+          },
+          {
+            "id": "LENS-1-Optical LENS",
+            "count": 1
+          }
+        ],
+        "2": [
+          {
+            "id": "ACID-Carboxylic Acids",
+            "count": 40
+          },
+          {
+            "id": "PR-COMP-2-Hyper Diamond",
+            "count": 10
+          },
+          {
+            "id": "GAS-Organic Gases",
+            "count": 40
+          },
+          {
+            "id": "ACID-Nitric Acid",
+            "count": 100
+          }
+        ],
+        "3": [
+          {
+            "id": "PR-COMP-3-Quantum Chip",
+            "count": 6
+          },
+          {
+            "id": "CRSTL-Pentamorphic Crystals",
+            "count": 10
+          },
+          {
+            "id": "Str-G-2-Tristeel Structural Elements",
+            "count": 2
+          },
+          {
+            "id": "BATTERY-2-Carbon Tube Battery",
+            "count": 4
+          }
+        ]
+      }
+    },
+    "ArmorAssembler": {
+      "name": "Armor Assembler",
+      "tiers": {
+        "1": [
+          {
+            "id": "Ceramo-Crystallic Blocks",
+            "count": 20
+          },
+          {
+            "id": "Str-G-1-Structural Elements",
+            "count": 6
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 10
+          },
+          {
+            "id": "CMPD-Lithium Compound",
+            "count": 10
+          }
+        ],
+        "2": [
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 10
+          },
+          {
+            "id": "GAS-Organic Gases",
+            "count": 80
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 24
+          },
+          {
+            "id": "PR-COMP-1-Astra A18 Chip",
+            "count": 4
+          }
+        ],
+        "3": [
+          {
+            "id": "Str-G-2-Tristeel Structural Elements",
+            "count": 4
+          },
+          {
+            "id": "PR-COMP-3-Quantum Chip",
+            "count": 1
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 10
+          },
+          {
+            "id": "METACRYS-Programmable Metacrystals",
+            "count": 10
+          }
+        ]
+      }
+    },
+    "EM_CoilMachine": {
+      "name": "EM Coil Machine",
+      "tiers": {
+        "1": [
+          {
+            "id": "Ceramo-Crystallic Blocks",
+            "count": 25
+          },
+          {
+            "id": "ACID-Nitric Acid",
+            "count": 20
+          },
+          {
+            "id": "BATTERY-1-Thin-film Lithium Battery",
+            "count": 4
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 6
+          }
+        ],
+        "2": [
+          {
+            "id": "CMPD-Copper Compound",
+            "count": 40
+          },
+          {
+            "id": "PR-COMP-1-Astra A18 Chip",
+            "count": 2
+          },
+          {
+            "id": "GAS-Organic Gases",
+            "count": 24
+          }
+        ],
+        "3": [
+          {
+            "id": "CMPD-Titanium Compound",
+            "count": 20
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 40
+          },
+          {
+            "id": "CMPD-Copper Compound",
+            "count": 100
+          },
+          {
+            "id": "BATTERY-2-Carbon Tube Battery",
+            "count": 4
+          }
+        ]
+      }
+    },
+    "Programmator": {
+      "name": "Programmator",
+      "tiers": {
+        "1": [
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 40
+          },
+          {
+            "id": "CMPD-Ferric Compound",
+            "count": 48
+          },
+          {
+            "id": "CMPD-Nickelic Compound",
+            "count": 16
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 10
+          }
+        ],
+        "2": [
+          {
+            "id": "PR-COMP-3-Quantum Chip",
+            "count": 4
+          },
+          {
+            "id": "INTBLC-3-Neural substrate",
+            "count": 20
+          },
+          {
+            "id": "PR-COMP-1-Astra A18 Chip",
+            "count": 20
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 10
+          }
+        ],
+        "3": [
+          {
+            "id": "Str-G-3-Polyalloy Structural Elements",
+            "count": 2
+          },
+          {
+            "id": "INTBLC-4-Intact Graphene IntlCore",
+            "count": 8
+          },
+          {
+            "id": "METACRYS-Programmable Metacrystals",
+            "count": 4
+          }
+        ]
+      }
+    },
+    "Greenhouse": {
+      "name": "Greenhouse",
+      "tiers": {
+        "1": [
+          {
+            "id": "PLNBIO-Plant Biomatter",
+            "count": 10
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 10
+          },
+          {
+            "id": "WATER-D-Polluted Water",
+            "count": 20
+          },
+          {
+            "id": "Ceramo-Crystallic Blocks",
+            "count": 20
+          }
+        ],
+        "2": [
+          {
+            "id": "FABRIC-2-Carbon Microfabric",
+            "count": 8
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 6
+          },
+          {
+            "id": "WATER-D-Polluted Water",
+            "count": 400
+          },
+          {
+            "id": "CMPD-Ferric Compound",
+            "count": 24
+          }
+        ],
+        "3": [
+          {
+            "id": "FABRIC-3-Carbonado Fabrics",
+            "count": 8
+          },
+          {
+            "id": "ICE-3-Phosgenic Ice",
+            "count": 20
+          },
+          {
+            "id": "WATER-Potable Water",
+            "count": 400
+          },
+          {
+            "id": "INTBLC-3-Neural substrate",
+            "count": 20
+          }
+        ]
+      }
+    },
+    "WeaponAssembler": {
+      "name": "Weapon Assembler",
+      "tiers": {
+        "1": [
+          {
+            "id": "Str-G-1-Structural Elements",
+            "count": 2
+          },
+          {
+            "id": "PR-COMP-1-Astra A18 Chip",
+            "count": 4
+          },
+          {
+            "id": "BATTERY-1-Thin-film Lithium Battery",
+            "count": 2
+          },
+          {
+            "id": "TRGCMPT-1-Basic Targeting Computer",
+            "count": 5
+          }
+        ],
+        "2": [
+          {
+            "id": "Str-R-1-ReinStrElem",
+            "count": 2
+          },
+          {
+            "id": "GAS-Organic Gases",
+            "count": 60
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 24
+          },
+          {
+            "id": "PR-COMP-2-Hyper Diamond",
+            "count": 4
+          }
+        ],
+        "3": [
+          {
+            "id": "Tristeel",
+            "count": 40
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 15
+          },
+          {
+            "id": "PR-COMP-3-Quantum Chip",
+            "count": 6
+          },
+          {
+            "id": "METACRYS-Programmable Metacrystals",
+            "count": 4
+          }
+        ]
+      }
+    },
+    "CrystalLab": {
+      "name": "Crystal Lab",
+      "tiers": {
+        "1": [
+          {
+            "id": "Ceramo-Crystallic Blocks",
+            "count": 50
+          },
+          {
+            "id": "INTBLC-1-Electronic Components",
+            "count": 20
+          },
+          {
+            "id": "WATER-Molecular Water",
+            "count": 80
+          },
+          {
+            "id": "CRSTL-Rough Quartz Crystals",
+            "count": 40
+          }
+        ],
+        "2": [
+          {
+            "id": "PWDR-Sulfates Powders",
+            "count": 10
+          },
+          {
+            "id": "INTBLC-2-Photonic nanochips",
+            "count": 20
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 30
+          }
+        ]
+      }
+    },
+    "MolecularForge": {
+      "name": "Molecular Forge",
+      "tiers": {
+        "1": [
+          {
+            "id": "METACRYS-Programmable Metacrystals",
+            "count": 20
+          },
+          {
+            "id": "INTBLC-3-Neural substrate",
+            "count": 30
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 120
+          },
+          {
+            "id": "PR-COMP-3-Quantum Chip",
+            "count": 10
+          }
+        ],
+        "2": [
+          {
+            "id": "METAPolyalloy",
+            "count": 30
+          },
+          {
+            "id": "PR-COMP-5-Programmable Matter",
+            "count": 30
+          },
+          {
+            "id": "CMPD-Rare Earth Compound",
+            "count": 150
+          },
+          {
+            "id": "METAGraphene",
+            "count": 10
+          }
+        ]
+      }
+    }
+  }
+}
